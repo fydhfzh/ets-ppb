@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ETS PPB</string>
+    <string name="movie1">Movie 1</string>
+    <string name="movie2">Movie 2</string>
+    <string name="movie3">Movie 3</string>
+    <string name="movie4">Movie 4</string>
+    <string name="movie5">Movie 5</string>
+    <string name="movie6">Movie 6</string>
+    <string name="movie7">Movie 7</string>
+    <string name="movie8">Movie 8</string>
+</resources>
